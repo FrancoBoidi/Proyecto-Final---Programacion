@@ -1,0 +1,13 @@
+C:\Users\Mago\source\repos\ProyeectoPrueba\LogicaNegocio\bin\Debug\LogicaNegocio.dll.config
+C:\Users\Mago\source\repos\ProyeectoPrueba\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\Mago\source\repos\ProyeectoPrueba\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\Mago\source\repos\ProyeectoPrueba\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\Mago\source\repos\ProyeectoPrueba\LogicaNegocio\bin\Debug\Entidades.dll
+C:\Users\Mago\source\repos\ProyeectoPrueba\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\Mago\source\repos\ProyeectoPrueba\LogicaNegocio\bin\Debug\AccesoDatos.dll.config
+C:\Users\Mago\source\repos\ProyeectoPrueba\LogicaNegocio\bin\Debug\Entidades.pdb
+C:\Users\Mago\source\repos\ProyeectoPrueba\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\Mago\source\repos\ProyeectoPrueba\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Mago\source\repos\ProyeectoPrueba\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+C:\Users\Mago\source\repos\ProyeectoPrueba\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\Mago\source\repos\ProyeectoPrueba\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
